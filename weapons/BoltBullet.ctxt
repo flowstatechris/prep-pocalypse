@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BoltBullet
+comment1.params=
+comment1.target=BoltBullet()
+comment2.params=speed\ rotation
+comment2.target=BoltBullet(Vector,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\ for\ all\ projectiles\ either\ used\ by\ enemies\ or\ the\ play\ are\ utilizing\ the\ asteroids\r\n\ bullet\ class,\ which\ requires\ vector\ for\ speed,\ angle,\ and\ direction\r\n
+comment4.params=
+comment4.target=void\ checkEnemyHit()
+numComments=5
